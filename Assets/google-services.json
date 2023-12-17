@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332490697616",
+    "project_id": "frontlineionotifications",
+    "storage_bucket": "frontlineionotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332490697616:android:91f40212d2c36618c8a115",
+        "android_client_info": {
+          "package_name": "com.lls.frontlinear"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABOmnmpzJhfVEOWLdU-P8dhF-UnNbGS6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
