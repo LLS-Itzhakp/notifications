@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d73e6a53-ee7f-4fc2-9f7d-0e85eae608bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../tester.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tester.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_analytics.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_analytics.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_analytics_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_analytics_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_auth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_auth.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_auth_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_auth_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_cloud_messaging.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_cloud_messaging.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_cloud_messaging_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_cloud_messaging_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_config.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_config.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_config_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_config_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_crashlytics.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_crashlytics.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_crashlytics_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_crashlytics_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_database.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_database.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_database_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_database_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_dynamic_links.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_dynamic_links.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_dynamic_links_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_dynamic_links_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_functions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_functions.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_functions_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_functions_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_invites.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_invites.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_invites_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_invites_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_storage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_storage.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_storage_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/fb_storage_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/firebase_lockup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/firebase_lockup.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/firebase_lockup_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor Default Resources/Firebase/firebase_lockup_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExternalDependencyManager.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../ExternalDependencyManager.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExternalDependencyManager/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../ExternalDependencyManager/Editor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/1.2.177.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/1.2.177.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/1.2.177/Google.IOSResolver.dll.mdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/1.2.177/Google.IOSResolver.dll.mdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/1.2.177/Google.IOSResolver.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/1.2.177/Google.IOSResolver.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/1.2.177/Google.JarResolver.dll.mdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/1.2.177/Google.JarResolver.dll.mdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/1.2.177/Google.JarResolver.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/1.2.177/Google.JarResolver.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/1.2.177/Google.PackageManagerResolver.dll.mdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/1.2.177/Google.PackageManagerResolver.dll.mdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/1.2.177/Google.PackageManagerResolver.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/1.2.177/Google.PackageManagerResolver.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/1.2.177/Google.VersionHandlerImpl.dll.mdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/1.2.177/Google.VersionHandlerImpl.dll.mdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/1.2.177/Google.VersionHandlerImpl.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/1.2.177/Google.VersionHandlerImpl.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/CHANGELOG.md.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/CHANGELOG.md.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/Google.VersionHandler.dll.mdb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/Google.VersionHandler.dll.mdb.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/Google.VersionHandler.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/Google.VersionHandler.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/LICENSE.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/LICENSE.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/README.md.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/README.md.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/external-dependency-manager_version-1.2.177_manifest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/external-dependency-manager_version-1.2.177_manifest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/external-dependency-manager_version-1.2.177_manifest.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../ExternalDependencyManager/Editor/external-dependency-manager_version-1.2.177_manifest.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/AppDependencies.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/AppDependencies.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/Firebase.Editor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/Firebase.Editor.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/Firebase.Editor.pdb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/Firebase.Messaging.Editor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/Firebase.Messaging.Editor.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/Firebase.Messaging.Editor.pdb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/FirebaseMessaging_version-11.6.0_manifest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/FirebaseMessaging_version-11.6.0_manifest.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/Messaging.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/Messaging/FirebaseMessagingActivityGenerator.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/Messaging/FirebaseMessagingActivityGenerator.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/Messaging/FirebaseMessagingActivityGenerator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/Messaging/FirebaseMessagingActivityGenerator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/MessagingDependencies.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/MessagingDependencies.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/generate_xml_from_google_services_json.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/generate_xml_from_google_services_json.exe.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/generate_xml_from_google_services_json.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/generate_xml_from_google_services_json.py.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/network_request.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/network_request.exe.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/network_request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Editor/network_request.py.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/Android.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/Android/firebase-messaging-cpp.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/Android/firebase-messaging-cpp.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/Firebase.App.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/Firebase.App.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/Firebase.App.pdb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/Firebase.Messaging.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/Firebase.Messaging.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/Firebase.Messaging.pdb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/Firebase.Platform.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/Firebase.Platform.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/Firebase.Platform.pdb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/Firebase.TaskExtension.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/Firebase.TaskExtension.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/Firebase.TaskExtension.pdb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/Google.MiniJson.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/Google.MiniJson.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/iOS.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/iOS/Firebase.App.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/iOS/Firebase.App.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/iOS/Firebase.App.pdb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/iOS/Firebase.Messaging.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/iOS/Firebase.Messaging.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/iOS/Firebase.Messaging.pdb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/x86_64.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/x86_64/FirebaseCppApp-11_6_0.bundle.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/x86_64/FirebaseCppApp-11_6_0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/x86_64/FirebaseCppApp-11_6_0.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/x86_64/FirebaseCppApp-11_6_0.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/x86_64/FirebaseCppApp-11_6_0.so.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/x86_64/FirebaseCppMessaging.bundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/x86_64/FirebaseCppMessaging.bundle.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/x86_64/FirebaseCppMessaging.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/x86_64/FirebaseCppMessaging.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/x86_64/FirebaseCppMessaging.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/Plugins/x86_64/FirebaseCppMessaging.so.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/m2repository.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/m2repository/com.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/m2repository/com/google.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/m2repository/com/google/firebase.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/m2repository/com/google/firebase/firebase-app-unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/m2repository/com/google/firebase/firebase-app-unity/11.6.0.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/m2repository/com/google/firebase/firebase-app-unity/11.6.0/firebase-app-unity-11.6.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/m2repository/com/google/firebase/firebase-app-unity/11.6.0/firebase-app-unity-11.6.0.pom.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/m2repository/com/google/firebase/firebase-app-unity/11.6.0/firebase-app-unity-11.6.0.srcaar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/m2repository/com/google/firebase/firebase-app-unity/11.6.0/firebase-app-unity-11.6.0.srcaar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/m2repository/com/google/firebase/firebase-app-unity/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/m2repository/com/google/firebase/firebase-app-unity/maven-metadata.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/m2repository/com/google/firebase/firebase-messaging-unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/m2repository/com/google/firebase/firebase-messaging-unity/11.6.0.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/m2repository/com/google/firebase/firebase-messaging-unity/11.6.0/firebase-messaging-unity-11.6.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/m2repository/com/google/firebase/firebase-messaging-unity/11.6.0/firebase-messaging-unity-11.6.0.pom.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/m2repository/com/google/firebase/firebase-messaging-unity/11.6.0/firebase-messaging-unity-11.6.0.srcaar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/m2repository/com/google/firebase/firebase-messaging-unity/11.6.0/firebase-messaging-unity-11.6.0.srcaar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/m2repository/com/google/firebase/firebase-messaging-unity/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/m2repository/com/google/firebase/firebase-messaging-unity/maven-metadata.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Frontline Notifications.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Frontline Notifications.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleNotification.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleNotification.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plugins.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Plugins.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plugins/Android.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Plugins/Android.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plugins/Android/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plugins/Android/AndroidManifest.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plugins/Android/FirebaseApp.androidlib.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plugins/Android/FirebaseApp.androidlib/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plugins/Android/FirebaseApp.androidlib/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plugins/Android/FirebaseApp.androidlib/res/values/google-services.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plugins/Android/MessagingUnityPlayerActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plugins/Android/MessagingUnityPlayerActivity.java.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plugins/iOS.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plugins/iOS/Firebase.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plugins/iOS/Firebase/libFirebaseCppApp.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plugins/iOS/Firebase/libFirebaseCppApp.a.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plugins/iOS/Firebase/libFirebaseCppMessaging.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plugins/iOS/Firebase/libFirebaseCppMessaging.a.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plugins/tvOS.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plugins/tvOS/Firebase.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plugins/tvOS/Firebase/libFirebaseCppApp.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plugins/tvOS/Firebase/libFirebaseCppApp.a.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plugins/tvOS/Firebase/libFirebaseCppMessaging.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plugins/tvOS/Firebase/libFirebaseCppMessaging.a.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StreamingAssets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StreamingAssets/google-services-desktop.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StreamingAssets/google-services-desktop.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../google-services.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/AndroidResolverDependencies.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/AndroidResolverDependencies.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/GvhProjectSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/GvhProjectSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../../UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Work/notifications/Assets/ExternalDependencyManager/Editor/1.2.177.meta" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FrontlineOneSignal.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../OneSignal/Example/OneSignalExampleBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectId" id="2ZgdEMg2AUHP70WstTO31PgckMN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\ITZHA\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\ITZHA\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\ITZHA\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d73e6a53-ee7f-4fc2-9f7d-0e85eae608bb" name="Changes" comment="" />
+      <created>1702847545079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702847545079</updated>
+      <workItem from="1702847550018" duration="1149000" />
+      <workItem from="1702848957718" duration="34000" />
+      <workItem from="1702849003777" duration="27000" />
+      <workItem from="1702849043280" duration="389000" />
+      <workItem from="1702849445188" duration="34000" />
+      <workItem from="1702849490425" duration="2000" />
+      <workItem from="1702849527824" duration="29000" />
+      <workItem from="1702849604383" duration="109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
